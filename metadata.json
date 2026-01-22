@@ -1,0 +1,5 @@
+{
+  "name": "MindcareAI",
+  "description": "A cross-platform mental health companion (Web & Python/Colab) providing compassionate AI support, mood tracking, and safety resources.",
+  "requestFramePermissions": []
+}
